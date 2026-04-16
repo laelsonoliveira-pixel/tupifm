@@ -1,0 +1,340 @@
+{
+    "station": {
+        "name": "Tupi FM",
+        "frequency": "87.9",
+        "slogan": "O seu lugar é aqui.",
+        "stream_url": "https://s01.transmissaodigital.com:7032/stream",
+        "theme": {
+            "primary": "#E31B23",
+            "background": "#0B0D12"
+        }
+    },
+    "social": [
+        {
+            "id": "instagram",
+            "label": "Instagram",
+            "url": "https://www.instagram.com/",
+            "icon_url": ""
+        },
+        {
+            "id": "facebook",
+            "label": "Facebook",
+            "url": "https://www.facebook.com/LimadeLopesOsmar/",
+            "icon_url": ""
+        },
+        {
+            "id": "website",
+            "label": "Site",
+            "url": "https://tupifmporteirao.com.br",
+            "icon_url": ""
+        },
+        {
+            "id": "whatsapp",
+            "label": "WhatsApp",
+            "url": "https://api.whatsapp.com/send?phone=5564992361610&text=Rádio%20Tupi%2C%20seu%20lugar%20é%20aqui.t=Rádio%20Tupi%2C%20seu%20lugar%20é%20aqui.",
+            "icon_url": ""
+        },
+        {
+            "id": "phone",
+            "label": "Telefone",
+            "url": "tel:+556436431601",
+            "icon_url": ""
+        }
+    ],
+    "schedule": {
+        "timezone": "America/Sao_Paulo",
+        "days": [
+            {
+                "day": "Segunda",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                ]
+            },
+            {
+                "day": "TerÃ§a",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                ]
+            },
+            {
+                "day": "Quarta",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                ]
+            },
+            {
+                "day": "Quinta",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                ]
+            },
+            {
+                "day": "Sexta",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                ]
+            },
+            {
+                "day": "SÃ¡bado",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                ]
+            },
+            {
+                "day": "Domingo",
+                "programs": [
+                    {
+                        "title": "Canta SertÃ£o",
+                        "host": "Ademar Silva",
+                        "start": "05:00",
+                        "end": "07:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                    },
+                    {
+                        "title": "ConexÃ£o 87",
+                        "host": "Bia Pereira",
+                        "start": "08:00",
+                        "end": "11:00",
+                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
+                    },
+                    {
+                        "title": "Jornal do RÃ¡dio",
+                        "host": "Tercio BarnabÃ©",
+                        "start": "11:00",
+                        "end": "12:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "TerritÃ³rio 87",
+                        "host": "Serra Grande FM",
+                        "start": "15:00",
+                        "end": "19:00",
+                        "photo_url": ""
+                    },
+                    {
+                        "title": "Clube da Noite",
+                        "host": "Serra Grande FM",
+                        "start": "20:00",
+                        "end": "23:59",
+                        "photo_url": ""
+                    }
+                
+                ]
+            }
+        ]
+    },
+    "now_on_air": {
+        "title": "Tupi FM",
+        "host": "Ao vivo",
+        "time_range": "",
+        "photo_url": ""
+    },
+    "endpoints": {
+        "remote_config_url": "https://audiencemidia.com.br/json/serragrande.json",
+        "now_on_air_url": ""
+    }
+}
