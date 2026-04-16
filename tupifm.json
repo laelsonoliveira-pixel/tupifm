@@ -334,7 +334,7 @@
         "photo_url": ""
     },
     "endpoints": {
-        "remote_config_url": "https://audiencemidia.com.br/json/serragrande.json",
+        "remote_config_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/tupifm.json",
         "now_on_air_url": ""
     }
 }
