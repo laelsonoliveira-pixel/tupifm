@@ -280,11 +280,8 @@
                         "host": "Tupi FM",
                         "start": "20:00",
                         "end": "23:59",
-                        "photo_url": ""title": "Tarde Sertaneja",
-                        "host": "Talis Silva",
-                        "start": "20:00",
-                        "end": "23:59",
-                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png",
+                        
                     }
                 ]
             },
