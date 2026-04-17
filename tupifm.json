@@ -85,7 +85,7 @@
                 ]
             },
             {
-                "day": "TerÃ§a",
+                "day": "Terça",
                 "programs": [
                     {
                         "title": "Canta SertÃ£o",
@@ -208,44 +208,44 @@
                 "day": "Sexta",
                 "programs": [
                     {
-                        "title": "Canta SertÃ£o",
-                        "host": "Ademar Silva",
-                        "start": "05:00",
-                        "end": "07:00",
-                        "photo_url": "https://www.audiencemidia.com.br/json/img/ademar.jpg"
+                        "title": "Madrugada 87",
+                        "host": "Equipe Tupi FM",
+                        "start": "00:00",
+                        "end": "05:00",
+                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
                     },
                     {
-                        "title": "ConexÃ£o 87",
-                        "host": "Bia Pereira",
-                        "start": "08:00",
-                        "end": "11:00",
-                        "photo_url": "https://www.audiencemidia.com.br/json/img/bia.jpg"
-                    },
-                    {
-                        "title": "Jornal do RÃ¡dio",
-                        "host": "Tercio BarnabÃ©",
-                        "start": "11:00",
+                        "title": "Manhã 87",
+                        "host": "Equipe Tupi FM",
+                        "start": "06:00",
                         "end": "12:00",
-                        "photo_url": ""
+                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
                     },
                     {
-                        "title": "TerritÃ³rio 87",
-                        "host": "Serra Grande FM",
-                        "start": "15:00",
+                        "title": "Pediu tocou",
+                        "host": "Equipe Tupi FM",
+                        "start": "12:00",
+                        "end": "15:59",
+                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+                    },
+                    {
+                        "title": "Sextou",
+                        "host": "Talis Silva",
+                        "start": "16:00",
                         "end": "19:00",
-                        "photo_url": ""
+                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/talis.jpeg"
                     },
                     {
                         "title": "Clube da Noite",
-                        "host": "Serra Grande FM",
+                        "host": "Equipe Tupi FM",
                         "start": "20:00",
                         "end": "23:59",
-                        "photo_url": ""
+                        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
                     }
                 ]
             },
             {
-                "day": "SÃ¡bado",
+                "day": "Sábado",
                 "programs": [
                     {
                         "title": "Canta SertÃ£o",
@@ -335,7 +335,7 @@
         "title": "Tupi FM",
         "host": "Ao vivo",
         "time_range": "",
-        "photo_url": ""
+        "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
     },
     "endpoints": {
         "remote_config_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/tupifm.json",
