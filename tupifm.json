@@ -4,7 +4,7 @@
     "name": "Tupi FM",
     "frequency": "87.9",
     "slogan": "O seu lugar é aqui!",
-    "stream_url": "https://server3.webradios.com.br:19426/9426?type=.flv",
+    "stream_url": "https://server3.webradios.com.br:19426/9426",
     "theme": {
       "primary": "#E31B23",
       "background": "#0B0D12"
