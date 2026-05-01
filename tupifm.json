@@ -122,20 +122,42 @@
             "title": "Madrugada 87",
             "host": "Equipe Tupi FM",
             "start": "00:00",
-            "end": "05:00",
+            "end": "04:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+
+          {
+            "title": "Raízes do Sertão",
+            "host": "Equipe Tupi FM",
+            "start": "05:00",
+            "end": "07:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
             "title": "Manhã 87",
             "host": "Equipe Tupi FM",
-            "start": "06:00",
-            "end": "12:00",
+            "start": "08:00",
+            "end": "10:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Pediu tocou",
+            "title": "Esporte da Tupi",
+            "host": "Equipe Tupi FM",
+            "start": "11:00",
+            "end": "11:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Automático",
             "host": "Equipe Tupi FM",
             "start": "12:00",
+            "end": "13:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Ligou, Pediu, Tocou",
+            "host": "Equipe Tupi FM",
+            "start": "14:00",
             "end": "15:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
@@ -144,12 +166,19 @@
             "title": "Tarde Sertaneja",
             "host": "Talis Silva",
             "start": "16:00",
-            "end": "19:00",
+            "end": "18:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
           },
           {
-            "title": "Clube da Noite",
-            "host": "Equipe Tupi FM",
+            "title": "A Voz do Brasil",
+            "host": "Agência Brasil",
+            "start": "19:00",
+            "end": "19:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Saudades",
+            "host": "Automático",
             "start": "20:00",
             "end": "23:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
@@ -163,20 +192,42 @@
             "title": "Madrugada 87",
             "host": "Equipe Tupi FM",
             "start": "00:00",
-            "end": "05:00",
+            "end": "04:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+
+          {
+            "title": "Raízes do Sertão",
+            "host": "Equipe Tupi FM",
+            "start": "05:00",
+            "end": "07:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
             "title": "Manhã 87",
             "host": "Equipe Tupi FM",
-            "start": "06:00",
-            "end": "12:00",
+            "start": "08:00",
+            "end": "10:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Pediu tocou",
+            "title": "Esporte da Tupi",
+            "host": "Equipe Tupi FM",
+            "start": "11:00",
+            "end": "11:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Automático",
             "host": "Equipe Tupi FM",
             "start": "12:00",
+            "end": "13:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Ligou, Pediu, Tocou",
+            "host": "Equipe Tupi FM",
+            "start": "14:00",
             "end": "15:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
@@ -185,12 +236,19 @@
             "title": "Tarde Sertaneja",
             "host": "Talis Silva",
             "start": "16:00",
-            "end": "19:00",
+            "end": "18:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
           },
           {
-            "title": "Clube da Noite",
-            "host": "Equipe Tupi FM",
+            "title": "A Voz do Brasil",
+            "host": "Agência Brasil",
+            "start": "19:00",
+            "end": "19:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Saudades",
+            "host": "Automático",
             "start": "20:00",
             "end": "23:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
@@ -204,20 +262,42 @@
             "title": "Madrugada 87",
             "host": "Equipe Tupi FM",
             "start": "00:00",
-            "end": "05:00",
+            "end": "04:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+
+          {
+            "title": "Raízes do Sertão",
+            "host": "Equipe Tupi FM",
+            "start": "05:00",
+            "end": "07:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
             "title": "Manhã 87",
             "host": "Equipe Tupi FM",
-            "start": "06:00",
-            "end": "12:00",
+            "start": "08:00",
+            "end": "10:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Pediu tocou",
+            "title": "Esporte da Tupi",
+            "host": "Equipe Tupi FM",
+            "start": "11:00",
+            "end": "11:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Automático",
             "host": "Equipe Tupi FM",
             "start": "12:00",
+            "end": "13:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Ligou, Pediu, Tocou",
+            "host": "Equipe Tupi FM",
+            "start": "14:00",
             "end": "15:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
@@ -226,12 +306,19 @@
             "title": "Tarde Sertaneja",
             "host": "Talis Silva",
             "start": "16:00",
-            "end": "19:00",
+            "end": "18:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
           },
           {
-            "title": "Clube da Noite",
-            "host": "Equipe Tupi FM",
+            "title": "A Voz do Brasil",
+            "host": "Agência Brasil",
+            "start": "19:00",
+            "end": "19:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Saudades",
+            "host": "Automático",
             "start": "20:00",
             "end": "23:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
@@ -245,33 +332,63 @@
             "title": "Madrugada 87",
             "host": "Equipe Tupi FM",
             "start": "00:00",
-            "end": "05:00",
+            "end": "04:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+
+          {
+            "title": "Raízes do Sertão",
+            "host": "Equipe Tupi FM",
+            "start": "05:00",
+            "end": "07:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
             "title": "Manhã 87",
             "host": "Equipe Tupi FM",
-            "start": "06:00",
-            "end": "12:00",
+            "start": "08:00",
+            "end": "10:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Pediu tocou",
+            "title": "Esporte da Tupi",
+            "host": "Equipe Tupi FM",
+            "start": "11:00",
+            "end": "11:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Automático",
             "host": "Equipe Tupi FM",
             "start": "12:00",
+            "end": "13:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Ligou, Pediu, Tocou",
+            "host": "Equipe Tupi FM",
+            "start": "14:00",
             "end": "15:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
+          
           {
-            "title": "Sextou",
+            "title": "Tarde Sertaneja",
             "host": "Talis Silva",
             "start": "16:00",
-            "end": "19:00",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/talis.jpeg"
+            "end": "18:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
           },
           {
-            "title": "Clube da Noite",
-            "host": "Equipe Tupi FM",
+            "title": "A Voz do Brasil",
+            "host": "Agência Brasil",
+            "start": "19:00",
+            "end": "19:59",
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
+          },
+          {
+            "title": "Saudades",
+            "host": "Automático",
             "start": "20:00",
             "end": "23:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
