@@ -426,38 +426,23 @@
         "day": "Domingo",
         "programs": [
           {
-            "title": "Madrugada 87",
+            "title": "Automatizado",
             "host": "Equipe Tupi FM",
             "start": "00:00",
-            "end": "05:00",
+            "end": "07:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Manhã 87",
+            "title": "Chora Viola",
             "host": "Equipe Tupi FM",
-            "start": "06:00",
-            "end": "12:00",
+            "start": "08:00",
+            "end": "11:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Pediu tocou",
+            "title": "Automitizado",
             "host": "Equipe Tupi FM",
             "start": "12:00",
-            "end": "15:59",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
-          },
-          
-          {
-            "title": "Tarde Sertaneja",
-            "host": "Talis Silva",
-            "start": "16:00",
-            "end": "19:00",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
-          },
-          {
-            "title": "Clube da Noite",
-            "host": "Equipe Tupi FM",
-            "start": "20:00",
             "end": "23:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           }
