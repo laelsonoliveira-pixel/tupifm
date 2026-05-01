@@ -85,7 +85,7 @@
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Ligou,Pediu, Tocou",
+            "title": "Ligou, Pediu, Tocou",
             "host": "Equipe Tupi FM",
             "start": "14:00",
             "end": "15:59",
@@ -104,14 +104,14 @@
             "host": "Agência Brasil",
             "start": "19:00",
             "end": "19:59",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
             "title": "Saudades",
             "host": "Automático",
             "start": "20:00",
             "end": "23:59",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           }
         ]
       },
