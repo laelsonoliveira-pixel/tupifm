@@ -399,41 +399,27 @@
         "day": "Sábado",
         "programs": [
           {
-            "title": "Madrugada 87",
+            "title": "Automático",
             "host": "Equipe Tupi FM",
             "start": "00:00",
-            "end": "05:00",
+            "end": "09:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Manhã 87",
-            "host": "Equipe Tupi FM",
-            "start": "06:00",
-            "end": "12:00",
+            "title": "Papo Quente",
+            "host": "Osmar Lopes e comentários de Uanderson Oliveira",
+            "start": "10:00",
+            "end": "12:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           },
           {
-            "title": "Pediu tocou",
+            "title": "Automatizado",
             "host": "Equipe Tupi FM",
-            "start": "12:00",
-            "end": "15:59",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
-          },
-          
-          {
-            "title": "Tarde Sertaneja",
-            "host": "Talis Silva",
-            "start": "16:00",
-            "end": "19:00",
-            "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/Talis.jpeg"
-          },
-          {
-            "title": "Clube da Noite",
-            "host": "Equipe Tupi FM",
-            "start": "20:00",
+            "start": "13:00",
             "end": "23:59",
             "photo_url": "https://raw.githubusercontent.com/laelsonoliveira-pixel/tupifm/refs/heads/main/logo.png"
           }
+          
         ]
       },
       {
